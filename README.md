@@ -3,8 +3,8 @@
 Anatole is a beautiful minimalist two-column [hugo](https://gohugo.io/) theme based on farbox-theme-Anatole.
 
 ![Screenshot Anatole Theme](./images/index.png)
-![Screenshot Anatole Theme (dark)](./images/fark.png)
-![Screenshot Post theme ](./images/Post.png)
+![Screenshot Anatole Theme (dark)](./images/dark.png)
+![Screenshot Post theme ](./images/post.png)
 
 ## Features
 Anatole's aims to be minimalistic and sleek, but still brings some great functionality.
