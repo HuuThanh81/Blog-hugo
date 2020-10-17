@@ -12,6 +12,15 @@ DNS & Registering DN
 <!--more-->
 
 ### Web server là gì ?
-Đây là tên gọi dành cho một loại máy chủ có dung lượng lớn, tốc độ cao có công dụng lưu trữ các thông tin trên internet như một ngân hàng dữ liệu bao gồm các website đã được thiết kế và các thông tin, tài khoản… có liên quan.
+Web server có nghĩa là máy chủ web, là máy tính lớn được kết nối với tập hợp mạng máy tính mở rộng. Máy chủ chứa toàn bộ dữ liệu mà nó được giao quyền quản lý. Mỗi máy chủ có một IP riêng và có thể đọc đa dạng ngôn ngữ như HTML, HTM, File,… 
 
-Xét ở mức độ cơ bản nhất, toàn bộ các website cần một chương trình máy tính, phân phối các trang web khi có yêu cầu từ người dùng. Chiếc máy tính chạy chương trình này là web server. Khi một người dùng sử dụng máy tính để truy cập một website, họ nhập và gửi yêu cầu tới internet về việc xem một trang web.
+
+Máy chủ có dung lượng lớn và tốc độ rất cao để có thể lưu trữ và vận hành tốt kho dữ liệu trên internet. Thông qua cổng giao tiếp riêng biệt của mỗi máy chủ mà hệ thống máy tính có khả năng hoạt động trơn tru hơn. Máy chủ phải đảm bảo hoạt động liên tục để có thể cung cấp dữ liệu cho mạng lưới máy tính của nó.
+
+Web server có thể là phần cứng hoặc phần mềm cũng có thể bao gồm cả hai. 
+
+ . Phần cứng: Máy chủ web là một máy tính lưu trữ các file ảnh, tài liệu HTML, CSS, file JavaScript của một website và chuyển chúng tới thiết bị của End-user. Máy chủ được kết nối internet và truy cập thông qua một tên miền như Mozilla.org.
+ . Phần mềm: Web server gồm một số phần điều khiển người dùng truy cập đến file lưu trữ trên một máy chủ HTTP. Máy chủ HTTP là một phần mềm, nó có khả năng hiểu được các địa chỉ website (URL) và giao thức trình duyệt sử dụng để xem các website (HTTP).
+
+ 
+Bất cứ khi nào một trình duyệt cần đến file được lưu trữ trên máy chủ, trình duyệt gửi yêu cầu file đó thông qua HTTP. Khi yêu cầu tới đúng máy chủ (phần cứng), HTTP (phần mềm) sẽ gửi tài liệu được yêu cầu trở lại thông qua HTTP.
